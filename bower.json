@@ -1,0 +1,10 @@
+{
+  "name": "Wootric",
+  "main": "wootric.js",
+  "authors": [
+    "Augusto Soares <gutosoares@outlook.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "homepage": ""
+}
